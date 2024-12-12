@@ -1,3 +1,12 @@
-th,td {
+tr, td {
     border : 2px solid rgb(140, 140, 140)
+}
+.avatar {
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+body {
+    background-color: skyblue
 }
